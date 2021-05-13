@@ -4,6 +4,7 @@ body {
 
 input {
   width: 500px;
+  max-width: calc(100% - 14px);
   padding: 5px;
 }
 
